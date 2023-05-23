@@ -1,8 +1,4 @@
-# Jobify
-
-#### Track Your Job Search
-
-Project in Action - [Jobify](https://www.jobify.live/)
+# JobQuest
 
 #### Support
 
@@ -792,7 +788,7 @@ app.use('/api/v1/jobs', jobsRouter)
 #### Postman
 
 - URL global var
-- JOBIFY Collection
+- JOBQUEST Collection
 - auth and jobs folders
 - setup routes
 
